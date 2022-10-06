@@ -9,3 +9,4 @@ a
 script that adds execute permission to the owner and the group owner, and read pe
 
 rmission to other users, to the file hello
+Write a script that adds execution permission to the owner, the group owner and the other users, to the file hello
