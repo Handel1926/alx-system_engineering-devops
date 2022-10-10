@@ -1,7 +1,3 @@
-print hello world
-a script that displays a confused smiley
-the content of the /etc/passwd file.
-Display the last 10 lines of /etc/passwd
-Display the content of /etc/passwd and /etc/hosts
-Display the first 10 lines of /etc/passwd
-a script that displays the third line of the file iacta
+a script that counts the number of directories and sub-directories in the current directory.
+a script that displays the 10 newest files in the current directory.
+a script that takes a list of words as input and prints only words that appear exactly once
